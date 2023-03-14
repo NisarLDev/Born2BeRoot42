@@ -1,2 +1,2 @@
 
-Project finished. Awaiting evaluation.
+Project completed. Awaiting evaluation.
