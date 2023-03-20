@@ -1,5 +1,5 @@
 
-Project finished with the bonus part. Awaiting evaluation.
+Scoring of the project finished with the bonus part. Score 110%.
 
 
 Bibliography:
